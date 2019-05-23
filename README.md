@@ -13,7 +13,7 @@ To write and API in nodejs is very easy. Just follow the following few steps.
 Express help us to build the API in node. For eg. We can easily access the Route and Body Parmas using express. Express provides may more features but Here we are satisfied with Route and Body Params only.
 
 2) Install CORS using following command.
-   - npm install googleapis
+   - npm install cors
 
 Using CORS, We can be able to access/deny the request from specified domain/IP.
 
